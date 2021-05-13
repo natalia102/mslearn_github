@@ -1,2 +1,1 @@
-# mslearn_github
-Prvé verejné repo k zadaniu úlohy Microsoft Learn a GitHub 
+My first public readme for Microsoft Learn and GitHub task
